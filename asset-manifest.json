@@ -1,29 +1,36 @@
 {
   "files": {
-    "main.css": "/datamotus/static/css/main.0a16c798.css",
-    "main.js": "/datamotus/static/js/main.9b04b643.js",
+    "main.css": "/datamotus/static/css/main.cd3c9fb1.css",
+    "main.js": "/datamotus/static/js/main.38c97557.js",
     "static/media/team2.jpg": "/datamotus/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/datamotus/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/datamotus/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/datamotus/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/HMC.png": "/datamotus/static/media/HMC.25a7505af7a65ef5ba37.png",
     "static/media/about1.jpeg": "/datamotus/static/media/about1.8394d01492022be3fc44.jpeg",
     "static/media/remixicon.woff?t=1590207869815": "/datamotus/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/team5.jpg": "/datamotus/static/media/team5.eb231b25879b724e28e7.jpg",
     "static/media/hero-img.png": "/datamotus/static/media/hero-img.2b165e8bfe189eb44af8.png",
     "static/media/remixicon.woff2?t=1590207869815": "/datamotus/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/europe.png": "/datamotus/static/media/europe.e07edbdc682fe3e89c76.png",
     "static/media/team1.jpg": "/datamotus/static/media/team1.9b11e1db18daa3ba5795.jpg",
+    "static/media/RA.png": "/datamotus/static/media/RA.b6f9a4c58118f8a84565.png",
     "static/media/team4.jpeg": "/datamotus/static/media/team4.a8dc6da28c76052e45af.jpeg",
+    "static/media/digitain.png": "/datamotus/static/media/digitain.e402f0f3949fca7adcd7.png",
+    "static/media/Ameria.png": "/datamotus/static/media/Ameria.32d241a641f9ed97befd.png",
+    "static/media/world-vision.png": "/datamotus/static/media/world-vision.b0827ae86949e7ed6666.png",
+    "static/media/microsoft.png": "/datamotus/static/media/microsoft.62ef02ff044404fca3e2.png",
     "static/media/logo-cdr.svg": "/datamotus/static/media/logo-cdr.8253063e425b3a0c779dd3fea1db4f99.svg",
     "static/media/slick.svg": "/datamotus/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/datamotus/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/datamotus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/datamotus/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/datamotus/index.html",
-    "main.0a16c798.css.map": "/datamotus/static/css/main.0a16c798.css.map",
-    "main.9b04b643.js.map": "/datamotus/static/js/main.9b04b643.js.map"
+    "main.cd3c9fb1.css.map": "/datamotus/static/css/main.cd3c9fb1.css.map",
+    "main.38c97557.js.map": "/datamotus/static/js/main.38c97557.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a16c798.css",
-    "static/js/main.9b04b643.js"
+    "static/css/main.cd3c9fb1.css",
+    "static/js/main.38c97557.js"
   ]
 }
