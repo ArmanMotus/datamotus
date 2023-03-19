@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/datamotus/static/css/main.cd3c9fb1.css",
-    "main.js": "/datamotus/static/js/main.38c97557.js",
+    "main.css": "/datamotus/static/css/main.244cd738.css",
+    "main.js": "/datamotus/static/js/main.7d69a20a.js",
     "static/media/team2.jpg": "/datamotus/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/datamotus/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/datamotus/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -26,11 +26,11 @@
     "static/media/slick.ttf": "/datamotus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/datamotus/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/datamotus/index.html",
-    "main.cd3c9fb1.css.map": "/datamotus/static/css/main.cd3c9fb1.css.map",
-    "main.38c97557.js.map": "/datamotus/static/js/main.38c97557.js.map"
+    "main.244cd738.css.map": "/datamotus/static/css/main.244cd738.css.map",
+    "main.7d69a20a.js.map": "/datamotus/static/js/main.7d69a20a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd3c9fb1.css",
-    "static/js/main.38c97557.js"
+    "static/css/main.244cd738.css",
+    "static/js/main.7d69a20a.js"
   ]
 }
