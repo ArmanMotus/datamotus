@@ -1,9 +1,21 @@
 {
   "files": {
-    "main.css": "/datamotus/static/css/main.1f7dba4e.css",
-    "main.js": "/datamotus/static/js/main.055ff194.js",
+    "main.css": "/datamotus/static/css/main.5b8aafb5.css",
+    "main.js": "/datamotus/static/js/main.3f51ccb7.js",
     "static/media/team2.jpg": "/datamotus/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
+    "static/media/marketing channels.png": "/datamotus/static/media/marketing channels.b2ed74ed5e20ecd8482d.png",
+    "static/media/telcom_churn.png": "/datamotus/static/media/telcom_churn.2f851afd1daf88d15bf2.png",
+    "static/media/urban_giz.png": "/datamotus/static/media/urban_giz.5e6d989dcec88e290656.png",
+    "static/media/proxy tool.png": "/datamotus/static/media/proxy tool.d6426519a98e13e8b2bf.png",
+    "static/media/study.png": "/datamotus/static/media/study.7bb8432a5ca9e672637a.png",
+    "static/media/repeated purchase.png": "/datamotus/static/media/repeated purchase.d7b7d928f1e442013d09.png",
+    "static/media/conjoint 2.png": "/datamotus/static/media/conjoint 2.79776d9977ec671e3623.png",
+    "static/media/bootcamp.png": "/datamotus/static/media/bootcamp.78a22403429b154d6720.png",
+    "static/media/conjoint.png": "/datamotus/static/media/conjoint.63166b82bd7f0e22862b.png",
+    "static/media/rapid_covid.png": "/datamotus/static/media/rapid_covid.4ffb2c1dc760abfc8375.png",
+    "static/media/cash_demand.png": "/datamotus/static/media/cash_demand.cc5ede9ac46e00e681f2.png",
     "static/media/remixicon.svg?t=1590207869815": "/datamotus/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/customer_satisfaction_for_telecom.png": "/datamotus/static/media/customer_satisfaction_for_telecom.42604b245fa30ca205a0.png",
     "static/media/remixicon.eot?t=1590207869815": "/datamotus/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/datamotus/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/HMC.png": "/datamotus/static/media/HMC.25a7505af7a65ef5ba37.png",
@@ -26,11 +38,11 @@
     "static/media/slick.ttf": "/datamotus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/datamotus/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/datamotus/index.html",
-    "main.1f7dba4e.css.map": "/datamotus/static/css/main.1f7dba4e.css.map",
-    "main.055ff194.js.map": "/datamotus/static/js/main.055ff194.js.map"
+    "main.5b8aafb5.css.map": "/datamotus/static/css/main.5b8aafb5.css.map",
+    "main.3f51ccb7.js.map": "/datamotus/static/js/main.3f51ccb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f7dba4e.css",
-    "static/js/main.055ff194.js"
+    "static/css/main.5b8aafb5.css",
+    "static/js/main.3f51ccb7.js"
   ]
 }
