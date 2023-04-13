@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/datamotus/static/css/main.76628773.css",
-    "main.js": "/datamotus/static/js/main.722c9489.js",
+    "main.css": "/datamotus/static/css/main.9594bce3.css",
+    "main.js": "/datamotus/static/js/main.b30a7a41.js",
     "static/media/team2.jpg": "/datamotus/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
     "static/media/LMS.png": "/datamotus/static/media/LMS.6c4986c2209daf08581d.png",
     "static/media/marketing channels.png": "/datamotus/static/media/marketing channels.b2ed74ed5e20ecd8482d.png",
@@ -44,11 +44,11 @@
     "static/media/team5.jpg": "/datamotus/static/media/team5.eb231b25879b724e28e7.jpg",
     "static/media/3.jpg": "/datamotus/static/media/3.36ad87101c5a9a7afde3.jpg",
     "static/media/image_5.jpg": "/datamotus/static/media/image_5.eec62ef02d81605d90e9.jpg",
-    "static/media/hero-img.png": "/datamotus/static/media/hero-img.2b165e8bfe189eb44af8.png",
     "static/media/remixicon.woff2?t=1590207869815": "/datamotus/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "static/media/image_4.jpg": "/datamotus/static/media/image_4.10e42812c20084effda3.jpg",
     "static/media/image_3.jpg": "/datamotus/static/media/image_3.5affea19be8edd8e15f6.jpg",
     "static/media/image_1.jpg": "/datamotus/static/media/image_1.ea0bc57a9d3df170d0fe.jpg",
+    "static/media/hero-img.png": "/datamotus/static/media/hero-img.93c8fdb5dac4e0375dde.png",
     "static/media/europe.png": "/datamotus/static/media/europe.e07edbdc682fe3e89c76.png",
     "static/media/image_2.jpg": "/datamotus/static/media/image_2.2a9f43ab5771ee8c2759.jpg",
     "static/media/team1.jpg": "/datamotus/static/media/team1.9b11e1db18daa3ba5795.jpg",
@@ -66,11 +66,11 @@
     "static/media/slick.ttf": "/datamotus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/datamotus/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/datamotus/index.html",
-    "main.76628773.css.map": "/datamotus/static/css/main.76628773.css.map",
-    "main.722c9489.js.map": "/datamotus/static/js/main.722c9489.js.map"
+    "main.9594bce3.css.map": "/datamotus/static/css/main.9594bce3.css.map",
+    "main.b30a7a41.js.map": "/datamotus/static/js/main.b30a7a41.js.map"
   },
   "entrypoints": [
-    "static/css/main.76628773.css",
-    "static/js/main.722c9489.js"
+    "static/css/main.9594bce3.css",
+    "static/js/main.b30a7a41.js"
   ]
 }
