@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/datamotus/static/css/main.257e3552.css",
-    "main.js": "/datamotus/static/js/main.ddef6960.js",
+    "main.css": "/datamotus/static/css/main.3a06d12e.css",
+    "main.js": "/datamotus/static/js/main.d6b753c7.js",
     "static/media/team2.jpg": "/datamotus/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
     "static/media/LMS.png": "/datamotus/static/media/LMS.6c4986c2209daf08581d.png",
     "static/media/marketing channels.png": "/datamotus/static/media/marketing channels.b2ed74ed5e20ecd8482d.png",
@@ -66,11 +66,11 @@
     "static/media/slick.ttf": "/datamotus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/datamotus/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/datamotus/index.html",
-    "main.257e3552.css.map": "/datamotus/static/css/main.257e3552.css.map",
-    "main.ddef6960.js.map": "/datamotus/static/js/main.ddef6960.js.map"
+    "main.3a06d12e.css.map": "/datamotus/static/css/main.3a06d12e.css.map",
+    "main.d6b753c7.js.map": "/datamotus/static/js/main.d6b753c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.257e3552.css",
-    "static/js/main.ddef6960.js"
+    "static/css/main.3a06d12e.css",
+    "static/js/main.d6b753c7.js"
   ]
 }
