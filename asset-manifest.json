@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.33e6ddc8.css",
-    "main.js": "/static/js/main.fb640c8a.js",
+    "main.js": "/static/js/main.cade0c2d.js",
     "static/media/team2.jpg": "/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
     "static/media/LMS.png": "/static/media/LMS.6c4986c2209daf08581d.png",
     "static/media/marketing channels.png": "/static/media/marketing channels.b2ed74ed5e20ecd8482d.png",
@@ -67,10 +67,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.33e6ddc8.css.map": "/static/css/main.33e6ddc8.css.map",
-    "main.fb640c8a.js.map": "/static/js/main.fb640c8a.js.map"
+    "main.cade0c2d.js.map": "/static/js/main.cade0c2d.js.map"
   },
   "entrypoints": [
     "static/css/main.33e6ddc8.css",
-    "static/js/main.fb640c8a.js"
+    "static/js/main.cade0c2d.js"
   ]
 }
