@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.33e6ddc8.css",
-    "main.js": "/static/js/main.cade0c2d.js",
+    "main.js": "/static/js/main.6a4df0f7.js",
     "static/media/team2.jpg": "/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
     "static/media/LMS.png": "/static/media/LMS.6c4986c2209daf08581d.png",
     "static/media/marketing channels.png": "/static/media/marketing channels.b2ed74ed5e20ecd8482d.png",
@@ -48,6 +48,7 @@
     "static/media/image_4.jpg": "/static/media/image_4.10e42812c20084effda3.jpg",
     "static/media/image_3.jpg": "/static/media/image_3.5affea19be8edd8e15f6.jpg",
     "static/media/image_1.jpg": "/static/media/image_1.ea0bc57a9d3df170d0fe.jpg",
+    "static/media/armstat.jpg": "/static/media/armstat.82e8610ca0c89914444d.jpg",
     "static/media/hero-img.png": "/static/media/hero-img.93c8fdb5dac4e0375dde.png",
     "static/media/europe.png": "/static/media/europe.e07edbdc682fe3e89c76.png",
     "static/media/image_2.jpg": "/static/media/image_2.2a9f43ab5771ee8c2759.jpg",
@@ -67,10 +68,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.33e6ddc8.css.map": "/static/css/main.33e6ddc8.css.map",
-    "main.cade0c2d.js.map": "/static/js/main.cade0c2d.js.map"
+    "main.6a4df0f7.js.map": "/static/js/main.6a4df0f7.js.map"
   },
   "entrypoints": [
     "static/css/main.33e6ddc8.css",
-    "static/js/main.cade0c2d.js"
+    "static/js/main.6a4df0f7.js"
   ]
 }
