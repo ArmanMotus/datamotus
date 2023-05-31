@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f1452bb.css",
-    "main.js": "/static/js/main.02228c2a.js",
+    "main.css": "/static/css/main.f95c4792.css",
+    "main.js": "/static/js/main.89c9bc8c.js",
     "static/media/team2.jpg": "/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
+    "static/media/project_2.png": "/static/media/project_2.229be27f89f3583c3a1b.png",
     "static/media/LMS.png": "/static/media/LMS.6c4986c2209daf08581d.png",
     "static/media/marketing channels.png": "/static/media/marketing channels.b2ed74ed5e20ecd8482d.png",
     "static/media/telcom_churn.png": "/static/media/telcom_churn.2f851afd1daf88d15bf2.png",
@@ -67,11 +68,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.1f1452bb.css.map": "/static/css/main.1f1452bb.css.map",
-    "main.02228c2a.js.map": "/static/js/main.02228c2a.js.map"
+    "main.f95c4792.css.map": "/static/css/main.f95c4792.css.map",
+    "main.89c9bc8c.js.map": "/static/js/main.89c9bc8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f1452bb.css",
-    "static/js/main.02228c2a.js"
+    "static/css/main.f95c4792.css",
+    "static/js/main.89c9bc8c.js"
   ]
 }
