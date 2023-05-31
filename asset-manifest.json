@@ -1,21 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.f95c4792.css",
-    "main.js": "/static/js/main.89c9bc8c.js",
+    "main.css": "/static/css/main.78fbb7b0.css",
+    "main.js": "/static/js/main.d602c33a.js",
     "static/media/team2.jpg": "/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
     "static/media/project_2.png": "/static/media/project_2.229be27f89f3583c3a1b.png",
+    "static/media/project_15.png": "/static/media/project_15.8993807663b2ce14ebab.png",
+    "static/media/project_9.png": "/static/media/project_9.49bdbff35845ab71bf5e.png",
+    "static/media/project_13.png": "/static/media/project_13.b658531a3e9b215c8e2f.png",
+    "static/media/project_7.png": "/static/media/project_7.10088d359dd121e6c128.png",
+    "static/media/project_11.png": "/static/media/project_11.1739315fb5bf49a9e59f.png",
+    "static/media/project_12.png": "/static/media/project_12.488bc9b7e66ed8a86798.png",
     "static/media/LMS.png": "/static/media/LMS.6c4986c2209daf08581d.png",
+    "static/media/project_8.png": "/static/media/project_8.e2ad363be2a3bcdc7fc2.png",
+    "static/media/project_4.png": "/static/media/project_4.3942ed236e8b9552023c.png",
     "static/media/marketing channels.png": "/static/media/marketing channels.b2ed74ed5e20ecd8482d.png",
+    "static/media/project_5.png": "/static/media/project_5.f8db4292c3c8d614a2f0.png",
+    "static/media/project_10.png": "/static/media/project_10.b7e9ece72c22e433aff1.png",
     "static/media/telcom_churn.png": "/static/media/telcom_churn.2f851afd1daf88d15bf2.png",
+    "static/media/project_6.png": "/static/media/project_6.1ee6be750a55e6a1582b.png",
     "static/media/urban_giz.png": "/static/media/urban_giz.5e6d989dcec88e290656.png",
     "static/media/proxy tool.png": "/static/media/proxy tool.d6426519a98e13e8b2bf.png",
     "static/media/libya.png": "/static/media/libya.1775ef5f74144c06a04b.png",
+    "static/media/project_14.png": "/static/media/project_14.3982b0076446b9cf8b84.png",
     "static/media/study.png": "/static/media/study.7bb8432a5ca9e672637a.png",
     "static/media/repeated purchase.png": "/static/media/repeated purchase.d7b7d928f1e442013d09.png",
     "static/media/conjoint 2.png": "/static/media/conjoint 2.79776d9977ec671e3623.png",
     "static/media/bootcamp.png": "/static/media/bootcamp.78a22403429b154d6720.png",
     "static/media/hexact.png": "/static/media/hexact.644e595eab1960914cce.png",
     "static/media/conjoint.png": "/static/media/conjoint.63166b82bd7f0e22862b.png",
+    "static/media/project_3.png": "/static/media/project_3.3b34024e3f1aafb1edae.png",
     "static/media/rapid_covid.png": "/static/media/rapid_covid.d1ad470d4f3c346ad61f.png",
     "static/media/cash_demand.png": "/static/media/cash_demand.f713dc5fa9473709ebb3.png",
     "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -68,11 +81,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.f95c4792.css.map": "/static/css/main.f95c4792.css.map",
-    "main.89c9bc8c.js.map": "/static/js/main.89c9bc8c.js.map"
+    "main.78fbb7b0.css.map": "/static/css/main.78fbb7b0.css.map",
+    "main.d602c33a.js.map": "/static/js/main.d602c33a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f95c4792.css",
-    "static/js/main.89c9bc8c.js"
+    "static/css/main.78fbb7b0.css",
+    "static/js/main.d602c33a.js"
   ]
 }
