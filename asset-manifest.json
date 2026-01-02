@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a94bbaf.css",
-    "main.js": "/static/js/main.ee6f9959.js",
-    "static/media/team2.jpg": "/static/media/team2.ca1c1fe60c10fbe352d4.jpg",
+    "main.css": "/static/css/main.7836bb3e.css",
+    "main.js": "/static/js/main.cfae6862.js",
     "static/media/project_2.png": "/static/media/project_2.229be27f89f3583c3a1b.png",
     "static/media/project_15.png": "/static/media/project_15.8993807663b2ce14ebab.png",
     "static/media/project_9.png": "/static/media/project_9.49bdbff35845ab71bf5e.png",
@@ -53,6 +52,7 @@
     "static/media/5.jpg": "/static/media/5.fe065777993241530e21.jpg",
     "static/media/2.jpg": "/static/media/2.deadf7b8a5f18d7c4e2f.jpg",
     "static/media/about1.jpeg": "/static/media/about1.8394d01492022be3fc44.jpeg",
+    "static/media/team2.jpg": "/static/media/team2.8d9b2e84fd51894431df.jpg",
     "static/media/7.jpg": "/static/media/7.c4aa4d6bdc1466637566.jpg",
     "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/6.jpg": "/static/media/6.922ca268e5b359005da4.jpg",
@@ -67,12 +67,12 @@
     "static/media/hero-img.png": "/static/media/hero-img.93c8fdb5dac4e0375dde.png",
     "static/media/europe.png": "/static/media/europe.e07edbdc682fe3e89c76.png",
     "static/media/image_2.jpg": "/static/media/image_2.2a9f43ab5771ee8c2759.jpg",
-    "static/media/team1.jpg": "/static/media/team1.9b11e1db18daa3ba5795.jpg",
     "static/media/RA.png": "/static/media/RA.b6f9a4c58118f8a84565.png",
     "static/media/image_7.jpg": "/static/media/image_7.b41cfed97fed69291810.jpg",
     "static/media/image_6.jpg": "/static/media/image_6.4b92b7ad263cc920985b.jpg",
     "static/media/team4.jpeg": "/static/media/team4.a8dc6da28c76052e45af.jpeg",
     "static/media/digitain.png": "/static/media/digitain.e402f0f3949fca7adcd7.png",
+    "static/media/team1.jpg": "/static/media/team1.3dfd25182ed3c57911b8.jpg",
     "static/media/Ameria.png": "/static/media/Ameria.32d241a641f9ed97befd.png",
     "static/media/world-vision.png": "/static/media/world-vision.b0827ae86949e7ed6666.png",
     "static/media/microsoft.png": "/static/media/microsoft.62ef02ff044404fca3e2.png",
@@ -82,11 +82,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.9a94bbaf.css.map": "/static/css/main.9a94bbaf.css.map",
-    "main.ee6f9959.js.map": "/static/js/main.ee6f9959.js.map"
+    "main.7836bb3e.css.map": "/static/css/main.7836bb3e.css.map",
+    "main.cfae6862.js.map": "/static/js/main.cfae6862.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a94bbaf.css",
-    "static/js/main.ee6f9959.js"
+    "static/css/main.7836bb3e.css",
+    "static/js/main.cfae6862.js"
   ]
 }
